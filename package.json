@@ -2,6 +2,7 @@
   "name": "polling-app-client",
   "version": "0.1.0",
   "private": true,
+  "homepage": https://NathanC90.github.io/polling-app/
   "dependencies": {
     "antd": "^3.2.2",
     "react": "^16.2.0",
